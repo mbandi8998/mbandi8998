@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/betsafe-kenya/image/upload/q_35/v1672808796/github%20profile%20pictures/prg001_iicpdk.jpg)
+
 <h3 align="center">Software engineer with 3+ years of experience developing and maintaining web applications.</h3>
 
 - 🔭 I’m currently working on **HR management system that is revolutionizing the way HR departments run their businesses.**
