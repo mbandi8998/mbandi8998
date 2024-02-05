@@ -1,5 +1,5 @@
 
-<h5 align="center">Software Engineer with 5+ years of experience in full-stack development using Django, Angular, React, Node.js, Express.js, MongoDB, PostgreSQL, Python, C#,  JavaScript, Typescript,  HTML, CSS, Bootstrap and Tailwind. Experienced in developing, maintaining, and troubleshooting web applications.
+<h4 align="start">Software Engineer with 5+ years of experience in full-stack development using Django, Angular, React, Node.js, Express.js, MongoDB, PostgreSQL, Python, C#,  JavaScript, Typescript,  HTML, CSS, Bootstrap and Tailwind. Experienced in developing, maintaining, and troubleshooting web applications.
 .</h3>
 
 - 🔭 I’m currently working on **HR management system that is revolutionizing the way HR departments run their businesses.**
