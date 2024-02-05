@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HR management system that is revolutionizing the way HR departments run their businesses.**
 
-- 💬 Ask me about **Django, Angular & Flutter**
+- 💬 Ask me about **Django, Angular & React**
 
 - 📫 How to reach me **jeremiahmbandinthiwa@gmail.com**
 
